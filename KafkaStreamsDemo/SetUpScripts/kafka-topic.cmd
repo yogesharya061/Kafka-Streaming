@@ -1,0 +1,1 @@
+%KAFKA_HOME%\bin\windows\kafka-topics.bat --zookeeper localhost:2181 --create --topic kafka-streams-demo --partitions 1 --replication-factor 1 --config retention.ms=86400000
