@@ -12,7 +12,7 @@ Steps to run the program:
 Learning: HandsetEnvelope class gets generated automatically when we build the code first time
           after placing avro schema under resources/avro directory.
           This class will be generated under Target folder and it will be available inside your final jar.
-          Adding HandsetEnvelope class code separately in my repo for reference.
+          Adding HandsetEnvelope class code separately inside this project folder for reference.
 */
 
 package org.tech.kafkastreams;
