@@ -1,0 +1,27 @@
+{
+  "type": "record",
+  "name": "HandsetEnvelope",
+  "namespace": "org.tech.schema.handset",
+  "fields": [
+    {
+      "name": "index",
+      "type": "int"
+    },
+    {
+      "name":"closed",
+      "type": "long"
+    },
+    {
+      "name": "customer",
+      "type": "int"
+    },
+    {
+      "name": "model",
+      "type": "int"
+    },
+    {
+      "name": "contract",
+      "type": "int"
+    }
+  ]
+}
