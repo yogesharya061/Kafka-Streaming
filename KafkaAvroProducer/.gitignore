@@ -1,6 +1,6 @@
 # Leave entire .idea folder
-*/.idea/*
-*/*.iml
+.idea/
+.iml
 
 # Leave target directory
-*/target/*
+target/
