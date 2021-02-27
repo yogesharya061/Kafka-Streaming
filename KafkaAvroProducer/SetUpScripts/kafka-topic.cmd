@@ -1,0 +1,1 @@
+%CONFLUENT_HOME%\bin\windows\kafka-topics.bat --zookeeper localhost:2181 --create --topic device-type-topic --partitions 1 --replication-factor 1

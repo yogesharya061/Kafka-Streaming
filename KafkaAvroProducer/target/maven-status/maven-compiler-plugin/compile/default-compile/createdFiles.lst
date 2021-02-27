@@ -1,0 +1,4 @@
+org\tech\schema\handset\HandsetEnvelope$Builder.class
+org\tech\schema\handset\HandsetEnvelope$1.class
+org\tech\schema\handset\HandsetEnvelope.class
+org\tech\kafkastreams\KafkaAvroProducer.class
